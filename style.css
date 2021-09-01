@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ebebeb;
+    margin-left: 141px;
+}
+div {
+    background-color: #ffffff;
+    max-width: 800px;
+}
+
+div p:nth-child(1) {
+    font-size: 20px;
+    padding: 431px 90px 0 65px;
+    width:50%;
+    text-align:justify;
+    color: #464646;
+}
+div p:nth-child(2){
+    margin-top: 63px;
+    font-size: 20px;
+    padding: 0 90px 406px 65px;
+    width:50%;
+    text-align:justify;
+    color: #464646;
+}
+div div{
+    display: flex;
+    margin-left: 30px;
+    margin-bottom:49px;
+}
+div  ul{
+    list-style-type: none;
+}
+div div ul {
+    padding-bottom:140px;
+
+
+}
+div div li {
+    padding-top: 20px;
+}
+div div ul:nth-child(1) li:nth-child(1){
+    color: #ffffff;
+}
+div div :nth-child(1) li:nth-child(2){
+    color: #515860;
+}
+div div :nth-child(1) li:nth-child(3){
+    color: #515860;
+}
+div div :nth-child(2) li:nth-child(1){
+    color: white;
+}
+div div :nth-child(2) li:nth-child(2){
+    color: #03246c;
+}
+div div :nth-child(2) li:nth-child(3){
+    color: #03246c;
+}
+div div :nth-child(2) li:nth-child(4){
+    color: #03246c;
+}
+div div :nth-child(2) li:nth-child(5){
+    color: #03246c;
+}
+div div :nth-child(3) li:nth-child(1){
+    color:white ;
+}
+div div :nth-child(3) li:nth-child(2){
+    color: #028090;
+}
+div div :nth-child(3) li:nth-child(3){
+    color:#028090 ;
+}
+div div :nth-child(4) li:nth-child(1){
+    color: white;
+}
+div div :nth-child(4) li:nth-child(2){
+    color: #28aeaf;
+}
+div div :nth-child(4) li:nth-child(3){
+    color: #28aeaf;
+}
+div div ul:nth-child(1) li:nth-child(1){
+    background-color:#515860 ;
+    text-align: center;
+    padding:10px 40px 10px ;
+    border-top-left-radius: 20px ;
+    border-bottom-left-radius: 20px ;
+    font-size: 20px ;
+}
+div div ul:nth-child(2) li:nth-child(1){
+    background-color:#03246c ;
+    text-align: center;
+    padding: 10px 30px 10px;
+    font-size: 20px ;
+
+}
+div div ul:nth-child(3) li:nth-child(1){
+    background-color: #028090;
+    text-align: center;
+    padding: 10px 30px 10px;
+    font-size: 20px ;
+}
+div div ul:nth-child(4) li:nth-child(1){
+    background-color:#28aeaf ;
+    text-align: center;
+    padding: 10px 30px 10px;
+    font-size: 20px ;
+}
+div div li:nth-child(2){
+    margin-left: 10px;
+}
+div div li:nth-child(3){
+    margin-left: 10px;
+}
+div div li:nth-child(4){
+    margin-left: 10px;
+}
+
+div div li:nth-child(5){
+    margin-left: 10px;
+}
